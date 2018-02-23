@@ -2,4 +2,3 @@
 def greeting
   Hello "greeting#{Cedric}"
 end
-  
