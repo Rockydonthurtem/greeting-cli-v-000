@@ -1,4 +1,4 @@
 # code the #greeting method here!
-def name
+def greeting
   puts "Hello #{Sally}. It's nice to meet you."
 end
